@@ -1,0 +1,938 @@
+INFO - 2024-03-02 02:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:25:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:25:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:32:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:40:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:44:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:45:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 02:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:07:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:08:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:10:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:10:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:11:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:23:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:23:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:29:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:29:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:31:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 03:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 06:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-02 06:46:32 --> mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\grocery\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\grocery\system\Database\MySQLi\Connection.php(306): mysqli->query('\r\n            S...', 0)
+#1 C:\xampp\htdocs\grocery\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('\r\n            S...')
+#2 C:\xampp\htdocs\grocery\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n            S...')
+#3 C:\xampp\htdocs\grocery\app\Models\BoxModel.php(92): CodeIgniter\Database\BaseConnection->query('\r\n            S...')
+#4 C:\xampp\htdocs\grocery\app\Controllers\Box.php(31): App\Models\BoxModel->get_expenses('2024')
+#5 C:\xampp\htdocs\grocery\system\CodeIgniter.php(941): App\Controllers\Box->expenses()
+#6 C:\xampp\htdocs\grocery\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Box))
+#7 C:\xampp\htdocs\grocery\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grocery\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-02 06:46:32 --> CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\BoxModel.php(92): CodeIgniter\Database\BaseConnection->query('
+            SELECT
+                COALESCE(SUM(stuff.price),
+                0) AS expense,
+                m.month,
+                COUNT(stuff.id_stuff) AS jumlah
+            FROM
+            (
+                SELECT
+                    \'01\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'02\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'03\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'04\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'05\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'06\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'07\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'08\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'09\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'10\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'11\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'12\' AS MONTH
+            ) m
+            LEFT JOIN box ON YEAR(box.create_date)=2024
+            AND DATE_FORMAT(box.create_date, \'%m\') = m.month
+            LEFT JOIN stuff ON stuff.id_stuff = box.id_stuff
+            GROUP BY
+                m.month;')
+ 2 APPPATH\Controllers\Box.php(31): App\Models\BoxModel->get_expenses('2024')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Box->expenses()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Box))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 06:46:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT
+                COALESCE(SUM(stuff.price),
+                0) AS expense,
+                m.month,
+                COUNT(stuff.id_stuff) AS jumlah
+            FROM
+            (
+                SELECT
+                    \'01\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'02\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'03\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'04\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'05\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'06\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'07\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'08\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'09\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'10\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'11\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'12\' AS MONTH
+            ) m
+            LEFT JOIN box ON YEAR(box.create_date)=2024
+            AND DATE_FORMAT(box.create_date, \'%m\') = m.month
+            LEFT JOIN stuff ON stuff.id_stuff = box.id_stuff
+            GROUP BY
+                m.month;')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT
+                COALESCE(SUM(stuff.price),
+                0) AS expense,
+                m.month,
+                COUNT(stuff.id_stuff) AS jumlah
+            FROM
+            (
+                SELECT
+                    \'01\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'02\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'03\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'04\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'05\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'06\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'07\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'08\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'09\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'10\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'11\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'12\' AS MONTH
+            ) m
+            LEFT JOIN box ON YEAR(box.create_date)=2024
+            AND DATE_FORMAT(box.create_date, \'%m\') = m.month
+            LEFT JOIN stuff ON stuff.id_stuff = box.id_stuff
+            GROUP BY
+                m.month;')
+ 3 APPPATH\Models\BoxModel.php(92): CodeIgniter\Database\BaseConnection->query('
+            SELECT
+                COALESCE(SUM(stuff.price),
+                0) AS expense,
+                m.month,
+                COUNT(stuff.id_stuff) AS jumlah
+            FROM
+            (
+                SELECT
+                    \'01\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'02\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'03\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'04\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'05\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'06\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'07\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'08\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'09\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'10\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'11\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'12\' AS MONTH
+            ) m
+            LEFT JOIN box ON YEAR(box.create_date)=2024
+            AND DATE_FORMAT(box.create_date, \'%m\') = m.month
+            LEFT JOIN stuff ON stuff.id_stuff = box.id_stuff
+            GROUP BY
+                m.month;')
+ 4 APPPATH\Controllers\Box.php(31): App\Models\BoxModel->get_expenses('2024')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Box->expenses()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Box))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 06:46:32 --> [Caused by] mysqli_sql_exception: MySQL server has gone away
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('
+            SELECT
+                COALESCE(SUM(stuff.price),
+                0) AS expense,
+                m.month,
+                COUNT(stuff.id_stuff) AS jumlah
+            FROM
+            (
+                SELECT
+                    \'01\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'02\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'03\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'04\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'05\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'06\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'07\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'08\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'09\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'10\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'11\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'12\' AS MONTH
+            ) m
+            LEFT JOIN box ON YEAR(box.create_date)=2024
+            AND DATE_FORMAT(box.create_date, \'%m\') = m.month
+            LEFT JOIN stuff ON stuff.id_stuff = box.id_stuff
+            GROUP BY
+                m.month;', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('
+            SELECT
+                COALESCE(SUM(stuff.price),
+                0) AS expense,
+                m.month,
+                COUNT(stuff.id_stuff) AS jumlah
+            FROM
+            (
+                SELECT
+                    \'01\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'02\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'03\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'04\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'05\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'06\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'07\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'08\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'09\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'10\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'11\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'12\' AS MONTH
+            ) m
+            LEFT JOIN box ON YEAR(box.create_date)=2024
+            AND DATE_FORMAT(box.create_date, \'%m\') = m.month
+            LEFT JOIN stuff ON stuff.id_stuff = box.id_stuff
+            GROUP BY
+                m.month;')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('
+            SELECT
+                COALESCE(SUM(stuff.price),
+                0) AS expense,
+                m.month,
+                COUNT(stuff.id_stuff) AS jumlah
+            FROM
+            (
+                SELECT
+                    \'01\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'02\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'03\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'04\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'05\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'06\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'07\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'08\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'09\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'10\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'11\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'12\' AS MONTH
+            ) m
+            LEFT JOIN box ON YEAR(box.create_date)=2024
+            AND DATE_FORMAT(box.create_date, \'%m\') = m.month
+            LEFT JOIN stuff ON stuff.id_stuff = box.id_stuff
+            GROUP BY
+                m.month;')
+ 4 APPPATH\Models\BoxModel.php(92): CodeIgniter\Database\BaseConnection->query('
+            SELECT
+                COALESCE(SUM(stuff.price),
+                0) AS expense,
+                m.month,
+                COUNT(stuff.id_stuff) AS jumlah
+            FROM
+            (
+                SELECT
+                    \'01\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'02\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'03\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'04\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'05\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'06\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'07\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'08\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'09\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'10\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'11\' AS MONTH
+                UNION ALL
+                SELECT
+                    \'12\' AS MONTH
+            ) m
+            LEFT JOIN box ON YEAR(box.create_date)=2024
+            AND DATE_FORMAT(box.create_date, \'%m\') = m.month
+            LEFT JOIN stuff ON stuff.id_stuff = box.id_stuff
+            GROUP BY
+                m.month;')
+ 5 APPPATH\Controllers\Box.php(31): App\Models\BoxModel->get_expenses('2024')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Box->expenses()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Box))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-02 09:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:45:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:50:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-02 09:52:40 --> BadMethodCallException: Call to undefined method App\Models\ItemsListModel::getItemsList
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Shopping.php(119): CodeIgniter\Model->__call('getItemsList', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Shopping->addToBox('1709276617-432055743')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Shopping))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-02 09:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 09:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:02:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:28:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:29:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 10:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:24:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:24:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:24:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:31:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:31:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-02 13:36:45 --> mysqli_sql_exception: Unknown column 'stuff.total' in 'field list' in C:\xampp\htdocs\grocery\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\grocery\system\Database\MySQLi\Connection.php(306): mysqli->query('\r\n             ...', 0)
+#1 C:\xampp\htdocs\grocery\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('\r\n             ...')
+#2 C:\xampp\htdocs\grocery\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n             ...')
+#3 C:\xampp\htdocs\grocery\app\Models\ItemsListModel.php(98): CodeIgniter\Database\BaseConnection->query('\r\n             ...')
+#4 C:\xampp\htdocs\grocery\app\Controllers\Shopping.php(103): App\Models\ItemsListModel->getItemsList_x2('1709375237-1079...', '1709385885-5637...')
+#5 C:\xampp\htdocs\grocery\system\CodeIgniter.php(941): App\Controllers\Shopping->getItemsList('1709375237-1079...')
+#6 C:\xampp\htdocs\grocery\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Shopping))
+#7 C:\xampp\htdocs\grocery\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grocery\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-02 13:36:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'stuff.total' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\ItemsListModel.php(98): CodeIgniter\Database\BaseConnection->query('
+                SELECT
+                    items_list.id_item_list,
+                    items_list.sum,
+                    items_list.total_price,
+                    stuff.id_stuff,
+                    stuff.total,
+                    stuff.stuff_name,
+                    shop.id_shop,
+                    shop.shop_name
+                FROM
+                    items_list
+                LEFT JOIN
+                    stuff
+                ON 
+                    stuff.id_stuff = items_list.id_stuff
+                LEFT JOIN
+                    shop
+                ON
+                    shop.id_shop = stuff.id_shop
+                WHERE
+                    items_list.id_shopping_list = \'1709375237-107930563\'
+                AND
+                    shop.id_shop =\'1709385885-563771639\'')
+ 2 APPPATH\Controllers\Shopping.php(103): App\Models\ItemsListModel->getItemsList_x2('1709375237-107930563', '1709385885-563771639')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Shopping->getItemsList('1709375237-107930563')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Shopping))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 13:36:45 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'stuff.total' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('
+                SELECT
+                    items_list.id_item_list,
+                    items_list.sum,
+                    items_list.total_price,
+                    stuff.id_stuff,
+                    stuff.total,
+                    stuff.stuff_name,
+                    shop.id_shop,
+                    shop.shop_name
+                FROM
+                    items_list
+                LEFT JOIN
+                    stuff
+                ON 
+                    stuff.id_stuff = items_list.id_stuff
+                LEFT JOIN
+                    shop
+                ON
+                    shop.id_shop = stuff.id_shop
+                WHERE
+                    items_list.id_shopping_list = \'1709375237-107930563\'
+                AND
+                    shop.id_shop =\'1709385885-563771639\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('
+                SELECT
+                    items_list.id_item_list,
+                    items_list.sum,
+                    items_list.total_price,
+                    stuff.id_stuff,
+                    stuff.total,
+                    stuff.stuff_name,
+                    shop.id_shop,
+                    shop.shop_name
+                FROM
+                    items_list
+                LEFT JOIN
+                    stuff
+                ON 
+                    stuff.id_stuff = items_list.id_stuff
+                LEFT JOIN
+                    shop
+                ON
+                    shop.id_shop = stuff.id_shop
+                WHERE
+                    items_list.id_shopping_list = \'1709375237-107930563\'
+                AND
+                    shop.id_shop =\'1709385885-563771639\'')
+ 3 APPPATH\Models\ItemsListModel.php(98): CodeIgniter\Database\BaseConnection->query('
+                SELECT
+                    items_list.id_item_list,
+                    items_list.sum,
+                    items_list.total_price,
+                    stuff.id_stuff,
+                    stuff.total,
+                    stuff.stuff_name,
+                    shop.id_shop,
+                    shop.shop_name
+                FROM
+                    items_list
+                LEFT JOIN
+                    stuff
+                ON 
+                    stuff.id_stuff = items_list.id_stuff
+                LEFT JOIN
+                    shop
+                ON
+                    shop.id_shop = stuff.id_shop
+                WHERE
+                    items_list.id_shopping_list = \'1709375237-107930563\'
+                AND
+                    shop.id_shop =\'1709385885-563771639\'')
+ 4 APPPATH\Controllers\Shopping.php(103): App\Models\ItemsListModel->getItemsList_x2('1709375237-107930563', '1709385885-563771639')
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Shopping->getItemsList('1709375237-107930563')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Shopping))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-02 13:36:45 --> [Caused by] mysqli_sql_exception: Unknown column 'stuff.total' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('
+                SELECT
+                    items_list.id_item_list,
+                    items_list.sum,
+                    items_list.total_price,
+                    stuff.id_stuff,
+                    stuff.total,
+                    stuff.stuff_name,
+                    shop.id_shop,
+                    shop.shop_name
+                FROM
+                    items_list
+                LEFT JOIN
+                    stuff
+                ON 
+                    stuff.id_stuff = items_list.id_stuff
+                LEFT JOIN
+                    shop
+                ON
+                    shop.id_shop = stuff.id_shop
+                WHERE
+                    items_list.id_shopping_list = \'1709375237-107930563\'
+                AND
+                    shop.id_shop =\'1709385885-563771639\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('
+                SELECT
+                    items_list.id_item_list,
+                    items_list.sum,
+                    items_list.total_price,
+                    stuff.id_stuff,
+                    stuff.total,
+                    stuff.stuff_name,
+                    shop.id_shop,
+                    shop.shop_name
+                FROM
+                    items_list
+                LEFT JOIN
+                    stuff
+                ON 
+                    stuff.id_stuff = items_list.id_stuff
+                LEFT JOIN
+                    shop
+                ON
+                    shop.id_shop = stuff.id_shop
+                WHERE
+                    items_list.id_shopping_list = \'1709375237-107930563\'
+                AND
+                    shop.id_shop =\'1709385885-563771639\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('
+                SELECT
+                    items_list.id_item_list,
+                    items_list.sum,
+                    items_list.total_price,
+                    stuff.id_stuff,
+                    stuff.total,
+                    stuff.stuff_name,
+                    shop.id_shop,
+                    shop.shop_name
+                FROM
+                    items_list
+                LEFT JOIN
+                    stuff
+                ON 
+                    stuff.id_stuff = items_list.id_stuff
+                LEFT JOIN
+                    shop
+                ON
+                    shop.id_shop = stuff.id_shop
+                WHERE
+                    items_list.id_shopping_list = \'1709375237-107930563\'
+                AND
+                    shop.id_shop =\'1709385885-563771639\'')
+ 4 APPPATH\Models\ItemsListModel.php(98): CodeIgniter\Database\BaseConnection->query('
+                SELECT
+                    items_list.id_item_list,
+                    items_list.sum,
+                    items_list.total_price,
+                    stuff.id_stuff,
+                    stuff.total,
+                    stuff.stuff_name,
+                    shop.id_shop,
+                    shop.shop_name
+                FROM
+                    items_list
+                LEFT JOIN
+                    stuff
+                ON 
+                    stuff.id_stuff = items_list.id_stuff
+                LEFT JOIN
+                    shop
+                ON
+                    shop.id_shop = stuff.id_shop
+                WHERE
+                    items_list.id_shopping_list = \'1709375237-107930563\'
+                AND
+                    shop.id_shop =\'1709385885-563771639\'')
+ 5 APPPATH\Controllers\Shopping.php(103): App\Models\ItemsListModel->getItemsList_x2('1709375237-107930563', '1709385885-563771639')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Shopping->getItemsList('1709375237-107930563')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Shopping))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-03-02 13:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-02 13:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

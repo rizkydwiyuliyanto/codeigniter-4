@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root {
+    --navbar: #034F84;
+    --light: #FFFFFF;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.my-container {
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+
+    // border: 1px solid red;
+    @media screen and (max-width: 900px) {
+        width: 90%;
+    }
+}
+
+body {
+    background-color: #d0d0d0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.bg-navbar {
+    background-color: var(--navbar);
+    display: none;
+}
+
+.background-transparent {
+    // border: 2px solid red;
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    display: none;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    background-color: #0b0b0b96;
+
+}
+
+.show-background-transparent {
+    // border: 2px solid red;
+    display: block;
+}
+
+header {
+    background-color: #FFFFFF;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 90;
+
+    .nav-items {
+        color: var(--navbar);
+        display: flex;
+        width: 100%;
+        height: 100%;
+        justify-content: space-between;
+        align-items: center;
+        font-family: "Nunito";
+
+        .link {
+            display: flex;
+            width: 370px;
+            height: 100%;
+            justify-content: space-between;
+
+            align-items: center;
+
+            .sub-link-parent {
+                // border: 1px solid blue;
+                position: relative;
+
+                .sub-link {
+                    position: absolute;
+
+                    // box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+                    border-radius: 6px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    width: 200px;
+                    top: 29px;
+                    height: 0px;
+                    transition: height 0.2s linear;
+                    background-color: var(--light);
+                    overflow-y: scroll;
+
+                    a {
+                        color: var(--navbar);
+                        padding: 0.5em 0.9em;
+                    }
+                }
+
+                &::after {
+                    content: "";
+                    position: absolute;
+                    // bottom:-25px;
+                    width: 100%;
+                    opacity: 0;
+                    height: 5px;
+                    background-color: red;
+                }
+
+                .show-sub-link {
+                    // transform: scaleY(1);
+                    border: 1.7px solid var(--navbar);
+                    height: 100px;
+                }
+            }
+
+            a {
+                color: var(--navbar);
+                text-decoration: none;
+            }
+        }
+
+
+    }
+
+}
+
+.link-mobile {
+    position: fixed;
+    right: -60%;
+    top: 0;
+    width: 60%;
+    height: 100vh;
+    z-index: 10;
+    background-color: #eeeeee;
+    display: flex;
+    align-items: flex-start;
+    padding: 0 1.8em;
+    transition: right 0.5s 0s ease-out;
+    .link-mobile-parent {
+        display: flex;
+        flex-direction: column;
+        // border: 2px solid red;
+        width: 100%;
+        align-items: flex-start;
+        justify-content: space-between;
+        height: fit-content;
+        font-size: 22px;
+        text-align: start;
+        margin-top: 75px;
+        a {
+            text-decoration: none;
+            color: var(--navbar);
+        }
+
+        .sub-link-parent-mobile {
+            // border: 1px solid blue;
+            position: relative;
+
+            .sub-link-mobile {
+                // box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+                border-radius: 6px;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+                width: 200px;
+                // position: absolute;
+                
+                height: 0;
+                transition: height 0.4s 0.1s ease-out;
+                background-color: var(--light);
+                overflow-y: hidden;
+
+                // border: 1px solid var(--navbar);
+                a {
+                    color: var(--navbar);
+                    padding: 0.5em 0.9em;
+                    text-decoration: none;
+                }
+                .sub-link-mobile-item{
+                    // border: 1px solid red;
+                    // height: 100%;
+                    display: flex;
+                    // padding: 1.5em 0;
+                    flex-direction: column;
+                    justify-content: center;
+                    padding: 0.45em 0.8em;
+                    a {
+                        // border: 1px solid red;
+                        padding: 0;
+                    }
+                }
+            }
+
+            &::after {
+                content: "";
+                position: absolute;
+                // bottom:-25px;
+                width: 100%;
+                opacity: 0;
+                height: 5px;
+                background-color: red;
+            }
+
+            .show-sub-link-mobile {
+                // transform: scaleY(1);
+            }
+        }
+    }
+}
+.show-link-mobile{
+    right: 0;
+}
+.my-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    column-gap: 17px;
+}
+
+.my-grid-card {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    column-gap: 17px;
+    row-gap: 20px;
+}
+.max-height-100 {
+    max-height: 100%;
+    display: none;
+}
+.content {
+    margin-top: 100px;
+    font-family: "Nunito";
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+    .button-tambah {
+        color: var(--light);
+        background-color: var(--navbar);
+        --ring-color: #93C5FD;
+        font-weight: 500;
+        border-radius: 0.5rem;
+        font-size: 1rem;
+        line-height: 2rem;
+        padding: 0.4rem 2rem;
+        text-align: center;
+        margin-right: 0.5rem;
+        display: inline-flex;
+        align-items: center;
+        border: none;
+
+        &:hover {
+            background-color: #033960;
+        }
+
+        &:focus {
+            box-shadow: var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+        }
+    }
+
+    button {
+        font-family: "Nunito";
+        color: var(--light);
+    }
+
+    .delete-btn {
+        border: none;
+        outline: none;
+        padding: 0 0.4em;
+        background-color: #FE6F5E;
+        display: flex;
+        justify-content: space-between;
+        width: 90px;
+
+    }
+
+    .edit-btn {
+        border: none;
+        outline: none;
+        padding: 0 0.4em;
+        background-color: #50BFE6;
+        display: flex;
+        justify-content: space-between;
+        width: 90px;
+
+    }
+
+    .sidebar {
+        border: 1.4px solid #b2b2b2;
+        font-family: "Nunito";
+        height: fit-content;
+        // overflow-y: scroll;
+        ul {
+            display: flex;
+            flex-direction: column;
+            margin: 0;
+            padding: 0;
+
+            li {
+                list-style-type: none;
+                padding: 0.9em 1.2em;
+                border-bottom: 1.4px solid #b2b2b2;
+                cursor: pointer;
+
+                &:last-child {
+                    border-bottom: 0px solid var(--light);
+                }
+            }
+
+            .active-shop {
+                background-color: var(--navbar);
+                color: var(--light);
+            }
+        }
+        @media only screen and (max-width: 700px){
+            display: block;
+            height: 270px;
+            overflow-y: scroll;
+        }
+    }
+
+    .box-shadow-parent {
+        box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    }
+
+    .messages {
+        border: 1px solid red;
+        display: none;
+    }
+}
+
+footer {
+    background-color: #FFFFFF;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    height: 60px;
+    font-family: "Nunito";
+    margin-top: auto;
+
+    h2 {
+        color: var(--navbar)
+    }
+}

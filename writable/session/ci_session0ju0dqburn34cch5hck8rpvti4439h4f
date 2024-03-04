@@ -1,0 +1,6 @@
+__ci_last_regenerate|i:1709211572;_ci_previous_url|s:63:"http://127.0.0.1/grocery/stuff/data_stuff/1708759281-1935306729";message|s:251:"
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+               Success
+               <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        ";__ci_vars|a:1:{s:7:"message";s:3:"old";}
